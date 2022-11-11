@@ -27,3 +27,12 @@
   margin-top: 50px;
   color: #333;
 }
+
+.container h2 {
+  margin-top: 50px;
+  color: #333;
+}
+
+#output {
+  text-align: center;
+}
